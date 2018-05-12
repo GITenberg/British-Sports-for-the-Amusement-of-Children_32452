@@ -1,0 +1,26 @@
+_repo: British-Sports-for-the-Amusement-of-Children_32452
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Belch, William
+    alias: Belch, W. (William)
+    gutenberg_agent_id: '35855'
+    url: http://www.gutenberg.org/2009/agents/35855
+description: ''
+gutenberg_issued: '2010-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sports -- Juvenile poetry'
+- !lcc 'PZ'
+- !lcsh 'Hunting -- Juvenile poetry'
+title: British Sports, for the Amusement of Children
+url: http://www.gutenberg.org/ebooks/32452
